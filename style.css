@@ -1,0 +1,44 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+#red {
+    background-color: rgb(234, 4, 62);
+    height: 16%;
+    width: 100%;
+}
+
+#orange {
+    background-color: rgb(255, 157, 60);
+    height: 16%;
+    width: 100%;
+}
+
+#yellow {
+    background-color: rgb(251, 255, 85);
+    height: 16%;
+    width: 100%;
+}
+
+#green {
+    background-color: rgb(16, 226, 64);
+    height: 16%;
+    width: 100%;
+}
+
+#blue {
+    background-color: rgb(13, 155, 161);
+    height: 16%;
+    width: 100%;
+}
+
+#purple {
+    background-color: rgb(155, 58, 142);
+    height: 16%;
+    width: 100%;
+}
